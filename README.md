@@ -29,7 +29,7 @@ index.js에서 랜더링된다.
 ## `asyncActionUtils.js`
 코드들을 간략화 하였다.
 
-* action 함수들을 간략화 하였다.
+### * action 함수들을 간략화 하였다.
 
 ```
 export default function createAsyncDispatcher(type,promiseFn){
